@@ -1,6 +1,6 @@
 ---
 title: "Red Tail"
-collection: publications
+collection: writing
 permalink: /publication/red-tail
 excerpt: 'red tail excerpt'
 date: 2022-09-01
