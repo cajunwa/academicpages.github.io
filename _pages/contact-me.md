@@ -7,6 +7,5 @@ redirect_from:
   - /contact-me.html
 ---
 
-## Contact Me
+## Coming soon
 
-coming soon
